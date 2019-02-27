@@ -69,7 +69,7 @@ A development server should be running at http://127.0.0.1:8000/
 
 [Vue.js 2.2](https://vuejs.org/) - Progressive Javascript framework
 
-[Bulma](https://bulma.io)- CSS Framework
+[Bulma](https://bulma.io)- Modern CSS Framework
 
 [Django Packages](https://djangopackages.org/)- A directory of reusable apps, sites, tools, and more for your Django projects.
 
