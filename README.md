@@ -25,7 +25,7 @@ virtualenv venv
 ```
 virtualenv --python=/usr/bin/python3.6 venv
 ```
-   Change the destination file if needed.
+      Change the destination file if needed.
 
 + Activate the environment:
 ```
