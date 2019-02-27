@@ -67,7 +67,32 @@ A development server should be running at http://127.0.0.1:8000/
 
 [Django 2.1.7](https://www.djangoproject.com/)- Python Web framework used
 
-[Vue.js](https://vuejs.org/) - Progressive Javascript framework
+[Vue.js 2.2](https://vuejs.org/) - Progressive Javascript framework
 
 [Bulma](https://bulma.io)- CSS Framework
+
+[Django Packages](https://djangopackages.org/)- A directory of reusable apps, sites, tools, and more for your Django projects.
+
+
+## Usefull Docs
+[Full Stack Python](https://www.fullstackpython.com/table-of-contents.html) - A collection of everything web related to Python.
+
+[Django 2.x Basic Commands](https://gist.github.com/bradtraversy/0df61e9b306db3d61eb24793b6b7132d)
+
+[Vue.js Cheatsheet](https://vuejs-tips.github.io/cheatsheet/) - Vue.js 2.2 complete API cheatsheet 
+
+[Bulma Basic Elements](http://yingyingzhang.com/bulma-cheat-sheet/assets/bulma-cheat-sheet-7-2-2018.pdf) - Most available Bulma classes and modifiers.
+
+## Recommended Tutorials
+[Django 1h Crash Course](https://www.youtube.com/watch?v=D6esTdOLXh4&t=1461s) - The framework and its advantages, setup up an app from scratch with MySQL. The MTV (Model-Template-View) design pattern, setup a virtual environment, look at the core Django files and build the app.
+
+[Vue.js 2.0 in 60 Minutes](https://www.youtube.com/watch?v=z6hQqgvGI4Y&t=106s) - Covers all of the fundamentals of the Vue.js 2.0 JavaScript framework. 
+
+[Bulma CSS Framework Crash Course](https://www.youtube.com/watch?v=IiPQYQT2-wg) - A crash course and resource guide with most of the elements that are available including the navigation, typography, boxes, grid system, forms, tables , etc.
+
+[Simple CRUD App with Django & Vue.js](https://medium.com/quick-code/crud-app-using-vue-js-and-django-516edf4e4217) - How to make a simple CRUD application using Vue.js 2.x and Django 2.0.2. Vue.js is used for building user interfaces and Django, a high level python Development framework that encourages rapid Develpoment.
+
+
+
+
 
