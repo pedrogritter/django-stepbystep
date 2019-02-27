@@ -74,7 +74,7 @@ A development server should be running at http://127.0.0.1:8000/
 [Django Packages](https://djangopackages.org/)- A directory of reusable apps, sites, tools, and more for your Django projects.
 
 
-## Usefull Docs
+## Useful Docs
 [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html) - A collection of everything web related to Python.
 
 [Django 2.x Basic Commands](https://gist.github.com/bradtraversy/0df61e9b306db3d61eb24793b6b7132d)
