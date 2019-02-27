@@ -47,7 +47,7 @@ pip install Django==2.1.7
 ```
 
 #### Deployment
-~~This project is deployed on [Heroku](https://www.heroku.com/) over [here](https://project-guru.herokuapp.com/)
+~~This project is deployed on [Heroku](https://www.heroku.com/) over [here](https://project-guru.herokuapp.com/)~~
 
 To deploy this on a live system enter the following command:
 ```
