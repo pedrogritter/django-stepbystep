@@ -22,7 +22,7 @@ virtualenv venv
 
 +  **__In case you use Python 2.7__**
 
-   Change the version of Python the virtual environemnt is using with this command:
+   Change the version of Python for the virtual environemnt with this command:
    
 ```
 virtualenv --python=/usr/bin/python3.6 venv
